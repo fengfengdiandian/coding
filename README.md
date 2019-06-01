@@ -1,2 +1,2 @@
-# leetcode
-记录一下 leetcode 刷题过程和思路
+#leetcode
+记录一下刷题过程和思路
